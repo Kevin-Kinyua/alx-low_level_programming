@@ -18,7 +18,7 @@ if (n != 57)
 putchar(',');
 putchar(' ');
 }
-n++
+n++;
 }
 putchar ('\n'); /*add new line*/
 return (0);
