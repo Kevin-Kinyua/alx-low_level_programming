@@ -4,7 +4,7 @@
 (*
  * Return: 0 on success
  */
-int mai(void)
+int main(void)
 {
 	char c = 'a';
 
