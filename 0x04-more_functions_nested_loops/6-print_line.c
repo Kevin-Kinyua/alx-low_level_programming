@@ -12,7 +12,7 @@ void print_line(int n)
 
 	for (count = 0; count < n; count++)
 	{
-		_putchar(' ');
+		_putchar('_');
 	}
 	_putchar('\n');
 }
