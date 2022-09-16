@@ -17,6 +17,7 @@ int main(void)
 /*{*/
 /*puthcar(i);*/
 /*}*/
+
 	printf("Infinite loop avoided! \\o/\n");
 
 	return (0);
