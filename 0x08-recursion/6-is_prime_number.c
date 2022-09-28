@@ -11,7 +11,7 @@ return (0);
 return (pnumber(2, n));
 
 }
-/*
+/**
  * pnumber - help me to find the prime number
  * @x: integer
  * @n: integer
