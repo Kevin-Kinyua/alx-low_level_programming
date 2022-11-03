@@ -7,6 +7,6 @@
 
 int main(void)
 {
-
+	lseek;
 	return (0);
 }
